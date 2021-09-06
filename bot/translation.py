@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @MRK_YT
+# (c) @AlbertEinsteinTG @MRK_YT @youtuberyt54355
 
 class Translation(object):
     
-    START_TEXT = """👋Hey {},
+    START_TEXT = """👋Hello {},
 
 I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
 
@@ -14,7 +14,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 
 ☞ <code>/add chat_id</code> - <b>To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)</b>
    
-☞ <code>/del chat_id</code> - <b>To disconnect A Group With A Channel</b>
+☞ <code>/del chat_id</code> - <b>To disconnect A my Group With A Channel</b>
      
 ☞ <code>/delall</code>  - <b>This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB</b>
     
@@ -28,7 +28,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
             
    ☞ <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
         
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/youtuberyt54355">© Mikey</a></b>
 """
     
     ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>Pro Auto Filter Bot V2.O</b>
@@ -37,7 +37,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 
 <b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
+<b>☞ 📖Source Code</b> : <a href="https://t.me/youtuberyt54355">😋msg me</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [Mikey's hq](t.me/Mrgbotrepair)"""
