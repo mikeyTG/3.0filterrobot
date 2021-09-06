@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🤖 Bot Updates🤖', url=f"t.me/{MT_UPDATES}"
+                                    '🤖 dev🤖', url=f"t.me/youtuberyt54355"
                                 )
                         ]
                     ]
@@ -96,10 +96,10 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Support', url='t.me/Mo_Tech_Group'),
-        InlineKeyboardButton('Bot Updates', url=f't.me/{MT_UPDATES}')
+        InlineKeyboardButton('Support', url='t.me/Malayalonpeverona'),
+        InlineKeyboardButton('Bot Updates', url=f't.me/Mrgbotrepair')
     ],[
-        InlineKeyboardButton('🖥️ How To Own This Bot 🖥️', url=f'{MT_LINK}')
+        InlineKeyboardButton('🖥️ coder 🖥️', url=f't.me/abhiabhisk')
     ],[   
         InlineKeyboardButton('🏠Home', callback_data='start'),
         InlineKeyboardButton('About😎', callback_data='about'),
